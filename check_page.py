@@ -11,7 +11,7 @@ STATE_FILE = "last_state.txt"
 
 EMAIL_FROM = "rocky14indian@gmail.com"
 EMAIL_TO = "rocky14indian@gmail.com"
-EMAIL_PASSWORD = os.environ.get("rtwn yski dcao ufqq")  # from GitHub Secrets
+EMAIL_PASSWORD = os.environ.get("GMAIL_PASSWORD")  # from GitHub Secrets
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 # ==================
