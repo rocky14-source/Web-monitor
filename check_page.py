@@ -2,7 +2,7 @@ import requests
 import hashlib
 import os
 
-URL = "https://example.com"   # webpage to monitor
+URL = "https://www.simplecirc.com/subscribe/s-magazine"   # webpage to monitor
 HASH_FILE = "last_hash.txt"
 
 def get_page_hash():
